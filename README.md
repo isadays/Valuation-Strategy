@@ -13,7 +13,7 @@ financial options, real options have value under uncertainty. Depending on the
 resolution of uncertainty in the future, management has the choice – but not the obligation – to
 exercise its options.
 
-![Staged Financing]()
+![Staged Financing](https://github.com/isadays/Valuation-Strategy/blob/main/Stagedfinancing.png)
 
 Start-up Financing (Stage 1):
 Initial Option: The investor commits capital to the start-up. This initial investment is akin to purchasing an option. The investor has the right, but not the obligation, to participate in future financing rounds.
