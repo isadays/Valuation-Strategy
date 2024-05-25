@@ -503,7 +503,113 @@ FCF = EBIT * (1- corporate tax rate) + depreciation and amortization +/- change 
 
 2.) Free Cash Flow to Equity (FCFE) method: Discount cash flows to equity with the cost of equity (to be used when valuing listed companies and financial institutions ) 
 
-3.) Adjusted Present Value (APV) method: Discount cash flows of an all equity firm and add the value of the financing side effects
+3.) Adjusted Present Value (APV) method: Discount cash flows of an all-equity firm and add the value of the financing side effects
 
+ 
 ![Corporate Valuation](https://github.com/isadays/Valuation-Strategy/blob/main/CorporateValuation.png)
+
+### CALCULATING THE FCF DURING THE EXPLICIT FORECASTING PERIOD
+
+#### ESTIMATING THE WACC 
+
+The WACC is the weighted average of the (after-tax) returns required by capital providers
+
+WACC = re * E/V + rd * (1 - tc) * D/V
+
+where 
+
+- rd = cost of debit -> risk free rate + credit spread = 2% + 3 % = 5%
+- re = cost of equity -> risk free rate + beta * market risk premium + small firm premium = 2% + 1.1 * 6.5 % + 2.5 % = 11.65 %
+- tc = marginal tax rate ->
+- D/V = target debt % in total firm value 
+- E/V = target equity % in total firm value
+- E/V = E/ (E+D) -> equity / (equity + debt) = 1/ (1+1/2) = 2/3
+
+WACC = 11.65 % * 2/3  + 5 % (1-25%) * 1/3 = 9.02 %
+
+OTHER ITEMS:
+
+- TAX RATE  - 25 %
+- UNLEVERED BETA - 0.8
+- EQUITY BETA - 1.1
+-TARGET DEBT/EQUITY RATIO - 1/2
+- BOND RATING - BB+
+- MARKET RISK PREMIUM - 6.5 %
+- RISK-FREE RATE - 2.0 %
+- SMALL FIRM PREMIUM - 2.5%
+- CREDIT SPREAD DEBT - 3.0%
+
+### EVALUATING FCF FOR THE CONTINUATION PERIOD
+
+1.) Perpetuity method - Cash flow based: Links cash flows to growth rates, reinvestment rates, and return on capital base
+
+- Key value driver method
+- Convergence model
+- Gordon growth model
+
+A thoughtful estimate of terminal value is essential to any valuation because terminal value accounts for 50 % to 125% of total value
+
+2.) Exit multiple: Assume that a company will be worth some multiple of future earnings or book value in the continuation period
+
+- P/E
+- EV/EBITDA
+
+### The key value driver formula
+
+Terminal value (TV) = NOPATTt*(1+g)*(1-g/ROCB) / (WACC - g)
+
+where:
+
+- NOPATt ( after-tax operating profit at time t)
+- ROCB equals to the return on invested capital for new investments 10%
+- WACC is the weighted average cost of capital, based on long-run target capital structure
+- g is the expected long-term growth rate in revenues & cash flows - 3%
+
+TV = 112.5 *(1+3%) *(1-3%/10%) / (9.02%-3%) = 1.348 m
+
+To obtain the present value of the terminal value you must not forget to discount with the corresponding discount factor,
+
+PV (TV) = 1.348/(1+9.02%)^6 = 1.348/1.68 = 803 m 
+
+The key value formula links cash flow to growth and ROCB
+The TV is measured at time t (last year or explicit forecast period) and thus will need to be discounted back t years to compute its present value.
+
+
+Observed multiples should be consistent with the value driver formula
+
+TV(t) = Multiple(t) * EBITDA(t)
+
+This EBITDA(t) multiple can be used for similar companies in the industry regardless of how they are financed because it ignores capital structure
+
+With an enterprise value/EBITDA multiple of 7 the terminal value of the company is 7*189 = 1323 m 
+
+### Appropriated terminal value formula
+
+![Terminal formulae](https://github.com/isadays/Valuation-Strategy/blob/main/TerminalFormulae.png)
+
+
+
+2.) Growth rate estimation - Estimation of the growth rate after the planning period should be based on the following formula:
+
+g = ROCB * Reinvestment ratio
+
+where:
+
+- Reinvestment ratio = Net investments/ NOPAT
+- Net investments = Investment in net working capital + total capex - depreciation
+Tips: Use averages NOPAT and growth for cyclical industries
+
+
+3.) Perform a consistency check on the entry and exit multiple
+
+Entry Period (acquisition period) = price/ EBITDA
+
+Exit (continuation period) = TV/ EBITDA
+
+Final step: Total enterprise and equity value
+
+Total enterprise value = PV(forecast period) + PV(terminal period) 
+
+For simple equity value (value available for shareholders) subtract net debt 
+
 
