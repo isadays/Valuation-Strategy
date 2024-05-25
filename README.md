@@ -198,3 +198,49 @@ Use the figure below to explain how the future investment in the production faci
 
 ![Option PayOff](https://github.com/isadays/Valuation-Strategy/blob/main/OptionPayOff.png)
 
+### Real Option to Defer in the Oil Industry
+
+### Explanation Using Option Theory
+
+Management is analyzing the initial decision in 2012 to start exploration drillings. As their financial expert, you explain to the management of Artic Oil how in 2012 the initial explorations were viewed as obtaining a real option. You decide to explain it to them using option theory and draw them a graph of the option where they can decide to invest in the future depending on the evolution of oil prices.
+
+##### Option Pay-off Structure
+
+- **X-axis (Value):** Represents the value of the underlying asset (oil prices).
+- **Y-axis (Option Pay-off):** Represents the pay-off from exercising the option.
+- **Investment in 2012:** The initial exploration investment acts as an option premium.
+- **Investment in 2015:** The decision point where the company can choose to make a significant investment in production facilities.
+- **No Additional Investments:** If oil prices do not rise sufficiently, the company may choose not to invest further, limiting their losses to the initial exploration cost.
+- **Invest:** If oil prices increase favorably, the company will exercise the option and invest in production, potentially leading to significant pay-offs.
+
+##### Time Value of the Option (as of 2012)
+
+The graph demonstrates the timeline of investments and the associated option value:
+- **Exploration (2012):** A small investment is made to obtain initial exploration data.
+- **Production (2015):** A larger investment decision is made based on the oil prices and the data obtained from the initial exploration.
+
+#### Key Points in Option Theory
+
+1. **Option Premium (Initial Exploration Investment):**
+   - The initial exploration in 2012 is akin to paying a premium for an option. It provides the company with the right to make a larger investment in the future.
+
+2. **Exercise Decision (2015 Investment):**
+   - The option will only be exercised if it is profitable to do so. In this case, if oil prices have risen sufficiently to justify the cost of building a drilling platform and starting production, the company will proceed with the investment.
+
+3. **Pay-off Structure:**
+   - The pay-off from exercising the option depends on the future value of oil prices. If prices are high, the pay-off is substantial. If prices are low, the company can choose not to invest further, thus limiting its losses to the initial exploration cost.
+
+4. **Time Value:**
+   - The time value of the option reflects the potential future value of the investment opportunity. As of 2012, this value takes into account the uncertainty and potential for oil prices to rise, making the future investment worthwhile.
+
+By viewing the initial exploration investment as a real option, Artic Oil's management can make informed decisions based on the evolving market conditions, optimizing their investment strategy and managing risks effectively.
+
+### Real Options and the Resolution of Uncertainty
+
+ In 2012 the company Artic Oil started exploration drillings in Nova Scotia, based on your analysis. That is, they purchased an option on the value of future oil production in 2015.
+In the  years. 2012 until 2015, the oil industry has been under pressure with prices dropping significantly. What happened with the value of the option?
+![Prices]()
+
+
+
+
