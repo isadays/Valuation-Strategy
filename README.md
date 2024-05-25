@@ -239,8 +239,66 @@ By viewing the initial exploration investment as a real option, Artic Oil's mana
 
  In 2012 the company Artic Oil started exploration drillings in Nova Scotia, based on your analysis. That is, they purchased an option on the value of future oil production in 2015.
 In the  years. 2012 until 2015, the oil industry has been under pressure with prices dropping significantly. What happened with the value of the option?
-![Prices]()
+![Prices](https://github.com/isadays/Valuation-Strategy/blob/main/Prices.png)
+
+#### Impact on the Value of the Option
+
+The value of a real option, such as the one held by Artic Oil, is highly dependent on the underlying asset—in this case, the price of oil. Here’s how the drop in oil prices impacted the value of the option:
+
+1. **Initial Option Value (2012):**
+   - In 2012, the initial exploration investment was made with the expectation of higher future oil prices. The option's value was based on the potential for favorable oil prices, making the future investment in full-scale production attractive.
+
+2. **Oil Price Drop (2012-2015):**
+   - The chart shows a significant decline in oil prices during this period. As oil prices dropped, the potential profitability of starting full-scale production decreased.
+   - **Decreased Option Value:** As the underlying asset's value (oil prices) fell, the value of the option to invest in future production also decreased. The option became less attractive because the expected pay-off from exercising the option in 2015 diminished.
+
+3. **Exercise Decision in 2015:**
+   - By 2015, with oil prices significantly lower, the economic feasibility of investing in full-scale production was under pressure. The option might still have some value, but the likelihood of exercising the option decreased unless oil prices were expected to recover significantly in the near future.
+
+##### Key Points Illustrated by the Chart
+
+- **Oil Prices (2012-2015):** The chart shows oil prices hovering around $80-$100 per barrel in 2012, then dropping below $50 per barrel by early 2015, and remaining low through mid-2016.
+- **Option Value Decrease:** As oil prices fell, the intrinsic value of the option (based on future potential revenues from oil production) decreased.
+- **Strategic Decision Making:** Artic Oil's management would need to reassess the viability of further investments in 2015, considering the lower-than-expected oil prices.
+
+The significant drop in oil prices between 2012 and 2015 led to a decrease in the value of Artic Oil's real option to invest in full-scale production. While the initial exploration investment purchased an option on future production, the declining oil prices reduced the attractiveness and potential profitability of exercising that option. This highlights the importance of market conditions in the valuation and strategic decisions associated with real options.
 
 
+### The Value of Mining Options Under High Uncertainty
 
+For a long time the oil industry had been characterized by highly volatile oil prices. The uncertainty in oil prices is often expressed as volatility or degree of variation. The graph below presents the monthly volatility of oil prices  over time. The y-axis represents the volatility, while the x-axis represents time. In the graph there are two distinct periods, period 1 and period 2.
 
+![Volatility](https://github.com/isadays/Valuation-Strategy/blob/main/Volatility.png)
+
+Consider the development of an oil field as a real option. Disregarding other parameters, in which period would the real option value be higher? Explain your answer (Hint: A higher volatility suggests a wider future pay-off distribution).
+
+- **Y-axis (Volatility):** Represents the volatility of oil prices.
+- **X-axis (Time):** Represents time.
+
+When considering the development of an oil field as a real option, the value of this option is influenced by the volatility of oil prices. A key insight from option pricing theory is that higher volatility increases the value of an option. This is because higher volatility suggests a wider distribution of potential future pay-offs, increasing the likelihood of very high returns, which outweighs the potential losses limited to the initial investment.
+
+##### Analysis of the Two Periods
+
+###### Period 1
+
+- **Characteristics:** Lower volatility, relatively stable oil prices.
+- **Implications for Option Value:** Lower volatility results in a narrower distribution of potential future pay-offs. The real option value is lower because the potential for extremely high returns is limited.
+
+###### Period 2
+
+- **Characteristics:** Higher volatility, significant fluctuations in oil prices.
+- **Implications for Option Value:** Higher volatility results in a wider distribution of potential future pay-offs. The real option value is higher because the potential for extremely high returns increases, making the investment more attractive despite the associated risks.
+
+The real option value would be higher in **Period 2**, when volatility is higher. This is because higher volatility enhances the potential for significant future pay-offs, increasing the overall value of the option to develop the oil field. Investors are more likely to value the option higher in periods of high volatility due to the increased potential for high returns.
+
+### Game Theory in Bidding Contests
+
+Consider a piece of land in which both a farmer and a project developer are interested.
+The project developer wants to buy the piece of land so that he can use it for
+the development of a real estate project, such as a large shopping mall. The
+farmer wants to buy the piece of land to build himself a new home; he would
+like to shift from his old land, since he likes the neighborhood of the new
+land better. Both bidders assign different values for the piece of land based
+on their plans.  In an acquisition, how can the fact that
+the bidders have different plans with the target affect the outcome of the
+bidding game and the acquisition premium?
