@@ -397,3 +397,7 @@ Resulting in payoffs of (20, 0).
 
 The best strategy for Bidder A is to submit a High Bid. This strategy leads to a Nash equilibrium where Bidder A submits a High Bid, and Bidder B submits a Low Bid, resulting in payoffs of (20, 0).
 
+### Discounted Cash Flow (DCF) 
+
+![DCF](https://github.com/isadays/Valuation-Strategy/blob/main/DCF.png)
+
