@@ -411,4 +411,89 @@ The best strategy for Bidder A is to submit a High Bid. This strategy leads to a
 2.) Perform discounted cash flow valuation (determine the WACC, determine FCF and terminal value, estimate enterprise and equity value, perform sensitivity analysis )
 3.) Perform multiple valuation (identification of comparable firms, determination of appropriate valuation multiples)
 
+### Forecasting free cash flows based on historical performance
+
+#### FREE CASH FLOWS (FCF): 
+The cash a company generates after having made all the required expenditures and is able to distribute, to operate and maintain or expand its asset base. 
+
+1.) Profitability (EBIT)
+2.) -/- Corporate Tax
+3.) +/+ Depreciation and amortization
+4.) -/- Investments in working capital
+5.) -/- Capital expenditures
+
+A historical analysis assesses which company fundamentals influence these drivers of FCF and makes forward projections based on that information. 
+
+### Evaluating EBITDA 
+1.) Revenue analysis :
+
+- Understand revenue growth and the underlying drivers per revenue line (volume vs. price)
+- Assess dependencies on particular markets/products/ distribution channels/clients
+- Differentiable between organic growth and growth via acquisitions
+- Typical ratios: CAGR, YoY-growth in price and volume
+
+2.) Cost of goods sold (COGS) analysis:
+
+- Analyze per revenue line COGS and gross margin (as % of revenues) charges/pensions as % of wages and salaries
+- Understand variability in COGS: Fixes cost vs variable costs
+- Breakdown variable part into volume and price components if possible
+- Typical ratios: Gross margin as % revenues, gross margin/ unit of volume
+
+3.) Other operating costs:
+
+- Personnel, marketing and sales, distribution, housing, and IT costs
+- Personnel costs analysis based on personnel costs as % of revenues and underlying drivers (# FTE, revenues per FTE, wages & salaries per FTE and social security charges/pensions as % of wages and salaries)
+- Typical rations: As % of revenues, YoY-growth, or per unit of volume
+
+
+4.) Profitability Analysis:
+
+- Understand the bridge between reporting profit before tax and taxable income
+- Identify non-tax-deductible items and tax credit
+- Analysis of (movements in ) deferred tax assets and liabilities
+- Assess the average statutory tax rate of taxation in different countries
+
+5.) Working Capital analysis:
+
+- Differentiate between operating and non-operating working capital (debt/cash items)
+- Trade working capital: Accounts payable, accounts receivable and inventory
+- Working capital drivers: Inventory days, trade debtor days, trade creditor days
+- Assess trends in operating working capital as % of revenues
+
+6.) Capex - Year-on-year changes in property plant and equipment and intangibles reflect the company's capital expenditures:
+
+- Determine capex patterns (incremental vs. lumpy capex)
+- Breakdown capex into maintenance capex and capex for growth
+- Analyze other movements such as disposals, acquisitions, and revaluations
+- Assess capex as % of revenues and fixed asset turnover
+
+7.) Capital structure analysis:
+
+- Define gross debt and excess cash position and evaluate funding structure
+- Leverage: Net total debt and net senior debit/EBITDA(R)
+- Interest coverage: Net cash interest/ EBITDA(R)
+- Debt service capacity: Free operating cash flow/ debt service
+- Solvency: book value equity/ total interest bearing debt
+- Borrowing base
+
+8.) Cash flow generation:
+
+- Determine cash flow generation of business
+- Cash conversion ratio: FOCF/EBITDA
+- FOCF versus debt service
+- Excess and operating cash
+- Short term liquidity ratios (e.g. current and quick ratio)
+
+9.) Per share data ratios:
+
+- Asses average number of shares outstanding (basic and fully diluted)
+- Earnings per share (basic and fully diluted)
+- Normalized earnings per share (basic and fully diluted)
+- Pavout ratio and dividend per share (basic and fully diluted)
+
+
+### Formula to calculate FCF
+
+FCF = EBIT * (1- corporate tax rate) + depreciation and amortization +/- change in net working capital - Capital expenditures
+
 
