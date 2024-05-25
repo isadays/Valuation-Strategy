@@ -190,11 +190,11 @@ Therefore, the present value of the growth opportunities (PVGO) for this company
 
  In 2012 the company Artic Oil contemplates to start exploration drillings in Nova Scotia. This allowed them to invest a limited amount in 2012 to perform initial explorations before fully investing in 2015 a complete drilling platform and start production. That is, they purchased an option on the value of future oil production.
 
- ![Option Value]()
+ ![Option Value](https://github.com/isadays/Valuation-Strategy/blob/main/OptionValue.png)
 
  Management is analyzing the initial decision in 2012 to start exploration drillings. As their financial expert you explain to the management of Artic Oil how in 2012  the initial explorations were viewed as obtaining a real option. You decide to explain it to them using option theory and draw them a graph of the  option where they can decide to invest in the future depending on the evolution of oil prices.
 
 Use the figure below to explain how the future investment in the production facilities in 2015 depends on the evolution of the oil price. Draw the time (option) value (as of 2012) of this pay-off in the figure.
 
-![Option PayOff]()
+![Option PayOff](https://github.com/isadays/Valuation-Strategy/blob/main/OptionPayOff.png)
 
