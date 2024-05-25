@@ -497,3 +497,13 @@ A historical analysis assesses which company fundamentals influence these driver
 FCF = EBIT * (1- corporate tax rate) + depreciation and amortization +/- change in net working capital - Capital expenditures
 
 
+### Variations of DCF methods
+
+1.) Weighted average cost of capital (WACC) method: Discount cash flows of the firm with weighted average of cost of capital
+
+2.) Free Cash Flow to Equity (FCFE) method: Discount cash flows to equity with the cost of equity (to be used when valuing listed companies and financial institutions ) 
+
+3.) Adjusted Present Value (APV) method: Discount cash flows of an all equity firm and add the value of the financing side effects
+
+![Corporate Valuation](https://github.com/isadays/Valuation-Strategy/blob/main/CorporateValuation.png)
+
