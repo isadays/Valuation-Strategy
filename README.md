@@ -161,3 +161,40 @@ Calculating each term:
 \[ \text{ENPV} = 5.83 \text{ million} \]
 
 In this example, although the traditional NPV is negative, the positive value of the real options associated with the platform acquisition makes the overall project worthwhile. The expanded NPV approach highlights the strategic value of future growth opportunities and flexibility, which are crucial in evaluating investment decisions under uncertainty.
+
+
+### Calculating Present Value of Growth Opportunities
+
+With the “market method,” we can deduce the market’s perception of strategic growth option value from share prices. Any value that is embedded in a company’s market value and cannot be reconciled by the value of its assets in place represents the value of its growth opportunities. 
+
+Suppose that:
+- The market value (share price multiplied by outstanding shares) of the company equals $80 billion.
+- The value of assets in place of the company, estimated as the discounted value of earnings under a no-growth policy, equals $50 billion.
+
+#### Estimating the Strategic Growth Option Value (PVGO)
+
+To estimate the strategic growth option value, also known as the present value of the growth opportunities (PVGO), we use the following formula:
+
+\[ \text{PVGO} = \text{Market Value} - \text{Value of Assets in Place} \]
+
+Substituting the given values:
+
+\[ \text{PVGO} = 80 \text{ billion} - 50 \text{ billion} \]
+
+\[ \text{PVGO} = 30 \text{ billion} \]
+
+Therefore, the present value of the growth opportunities (PVGO) for this company is **$30 billion**. This means that $30 billion of the company's market value is attributed to its expected future growth opportunities beyond the value of its existing assets.
+
+
+### Real Option to Defer in the Oil Industry
+
+ In 2012 the company Artic Oil contemplates to start exploration drillings in Nova Scotia. This allowed them to invest a limited amount in 2012 to perform initial explorations before fully investing in 2015 a complete drilling platform and start production. That is, they purchased an option on the value of future oil production.
+
+ ![Option Value]()
+
+ Management is analyzing the initial decision in 2012 to start exploration drillings. As their financial expert you explain to the management of Artic Oil how in 2012  the initial explorations were viewed as obtaining a real option. You decide to explain it to them using option theory and draw them a graph of the  option where they can decide to invest in the future depending on the evolution of oil prices.
+
+Use the figure below to explain how the future investment in the production facilities in 2015 depends on the evolution of the oil price. Draw the time (option) value (as of 2012) of this pay-off in the figure.
+
+![Option PayOff]()
+
