@@ -399,5 +399,8 @@ The best strategy for Bidder A is to submit a High Bid. This strategy leads to a
 
 ### Discounted Cash Flow (DCF) 
 
+
 ![DCF](https://github.com/isadays/Valuation-Strategy/blob/main/DCF.png)
+
+#### DCF and real options & games - Equity Value = net value of assets in place (excl. debt) + growth option value
 
