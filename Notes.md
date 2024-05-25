@@ -406,4 +406,9 @@ The best strategy for Bidder A is to submit a High Bid. This strategy leads to a
 
 ![DCF](https://github.com/isadays/Valuation-Strategy/blob/main/DCF2.png)
 
+#### Overview of company valuation
+1.) Historical performance and estimation of FCF (identify key value drivers, forecast profit and loss account, balance sheet, and cash flow statement)
+2.) Perform discounted cash flow valuation (determine the WACC, determine FCF and terminal value, estimate enterprise and equity value, perform sensitivity analysis )
+3.) Perform multiple valuation (identification of comparable firms, determination of appropriate valuation multiples)
+
 
