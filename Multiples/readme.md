@@ -19,4 +19,6 @@ Trading multiples: Based on current market capitalization
 
 Transaction multiples: Based on pricing in M&A
 
-![Multiples]()
+![Multiples](https://github.com/isadays/Valuation-Strategy/blob/main/Multiples/Multiples.png)
+
+
