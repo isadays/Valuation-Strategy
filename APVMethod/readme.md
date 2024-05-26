@@ -9,7 +9,7 @@ You are an investment analyst working at a major bank. Your team is currently ad
 
 Given below are the actual and forecasted company financials of company DYNI (also note the spreadsheet).
 
-![APV method]()
+![APV method](https://github.com/isadays/Valuation-Strategy/blob/main/APVMethod/APVmethod.png)
 
 What is the present unlevered firm value of this company? Please provide your answer in USD millions without a dollar sign (e.g. 100.75 instead of $100.75). Answer: 824.21
 
